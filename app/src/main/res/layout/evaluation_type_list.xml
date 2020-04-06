@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <TextView
+        android:id="@+id/lblName"
+        android:textColor="#000000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:drawableLeft="@android:drawable/ic_notification_overlay"
+        android:paddingTop="15dip"
+        android:paddingBottom="15dip"
+        android:paddingLeft="5dip"
+        android:paddingRight="10dip"
+        android:layout_marginLeft="5dp" />
+</LinearLayout>

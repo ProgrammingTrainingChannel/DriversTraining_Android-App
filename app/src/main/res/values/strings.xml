@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Drivers Training</string>
+    <string name="title_activity_contact_manager">የስልክ ኮንታክቶች</string>
+
+    <!-- home activity -->
+    <string name="home_developed_by">BT IT Solutions (+251 911 84 20 52)</string>
+    <string name="btn_setting">ማስተካከያ</string>
+    <string name="btn_training">የፈተና መለማመጃ</string>
+    <string name="btn_content_by">ለኮምፒዩተር የሚሆን ከፈለጉ ይህን ይጫኑ</string>
+
+    <!-- evaluation type activity -->
+    <string name="evaluation_type_message">እባክዎ የሚፈልጉትን አይነት ይምረጡ</string>
+    <string name="evaluation_type_lblQuestionNumber">የጥያቄ ብዛት :</string>
+    <string name="evaluation_type_training">ስልጠና</string>
+    <string name="evaluation_type_exam">ፈተና</string>
+
+    <!-- login activity -->
+    <string name="Login_btnLogin">ክፈት</string>
+
+    <!-- evaluation activity -->
+    <string name="Evaluation_btnNextQuestion">ቀጣይ ጥያቄ</string>
+
+    <!-- evaluation activity -->
+    <string name="Training_lblContentProviderName">ጥያቄዎቹን ያዘጋጀው : ዳዊት ምንዋጋው</string>
+    <string name="Training_lblContentProviderPhone">ስልክ ቁጥር : 0939 95 77 68</string>
+
+    <!-- result activity -->
+    <string name="Result_lblTotalQuestions">ጠቅላላ ጥያቄዎች : </string>
+    <string name="Result_lblCorrectQuestions">የተመለሱ ጥያቄዎች : </string>
+    <string name="Result_lblIncorrectQuestions">ያልተመለሱ ጥያቄዎች : </string>
+
+    <!-- setting_dialog -->
+    <string name="action_settings">ማስተካከያ</string>
+    <string name="setting_lblamharic">አማርኛ</string>
+    <string name="setting_lblenglish">English</string>
+    <string name="setting_btnSave">አስቀምጥ</string>
+
+    <!-- about_dialog -->
+    <string name="btn_about">ስለአዘጋጁ</string>
+    <string name="about_lblheader">BT IT Solutions</string>
+    <string name="About_lblOurServices">የምንሰጣቸው አገልግሎቶች:</string>
+    <string name="About_lblConsultancy">  - የአይቲ ነክ ስራዎች ማማከር</string>
+    <string name="About_lblWebsite">  - ዌብስይትና የተለያዩ ፕሮግራሞች ማልማት</string>
+    <string name="About_lblMobile">  - የሞባይል ፕሮግራሞች ማልማት</string>
+    <string name="About_lblTraining">  - የፕሮግራሚንግ ስልጠና በግል</string>
+    <string name="About_lblOurAddress">አድራሻችን:</string>
+    <string name="About_lblCity">  - አዲስ አበባ, ኢትዮጵያ</string>
+    <string name="About_lblArea">  - ሜክሲኮ አካባቢ, ኬ ኬር ህንጻ</string>
+    <string name="About_lblMobileNumber">  - +251 911 84 20 52</string>
+
+    <!-- splash activity -->
+    <string name="splash_greeting">እንኳን ደህና መጡ</string>
+    <string name="splash_notification">ለመጀመሪያ ጊዜ ከሆነ ጥያቄዎቹን ለማዘጋጀት እስከ 5 ደቂቃ ድረስ ሊቆይ ይችላል::</string>
+    <string name="splash_company">BT IT Solutions (+251 911 84 20 52)</string>
+</resources>
